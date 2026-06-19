@@ -4,11 +4,11 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 ---
 
 ## Business Questions Answered
-- 1. Show the top 5 and bottom 5 products based on sales, profit, or quantity sold.
-- 2. Show how sales change over time — daily, monthly, quarterly, and yearly trends. 
-- 3. Show the relationship between sales and profit. 
-- 4. Compare sales, profit, and quantity sold between any two time periods the user picks. 
-- 5. Show the average discount given for each discount category. 
-- 6. Show the total number of orders. 
-- 7. Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories. 
-- 8. Show sales broken down by different cities.
+- Show the top 5 and bottom 5 products based on sales, profit, or quantity sold.
+- Show how sales change over time — daily, monthly, quarterly, and yearly trends. 
+- Show the relationship between sales and profit. 
+- Compare sales, profit, and quantity sold between any two time periods the user picks. 
+- Show the average discount given for each discount category. 
+- Show the total number of orders. 
+- Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories. 
+- Show sales broken down by different cities.
