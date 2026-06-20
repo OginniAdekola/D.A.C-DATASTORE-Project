@@ -20,3 +20,4 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 - Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories.
   ![Market Overview Per Time](Relationship_Between_Sales,Discount,NetSales,Profit_Filter_by_Date,Product,CustomerID,Promotion_Category.png)
 - Show sales broken down by different cities.
+  ![Sales Across the Cities](Sales_Across_Different_Cities.png)
