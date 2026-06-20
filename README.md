@@ -17,5 +17,6 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
   ![Average Discount](Average_Discount_by_Discount_Category.png)
 - Show the total number of orders.
   ![Total No of Orders](Total_No_of_Orders.png)
-- Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories. 
+- Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories.
+  ![Market Overview Per Time](Relationship_Between_Sales,Discount,NetSales,Profit_Filter_by_Date,Product,CustomerID,Promotion_Category.png)
 - Show sales broken down by different cities.
