@@ -9,7 +9,8 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
   ![5 Top/Bottom Product](5_Top-Bottom_Products_By_Quantity_Sold.png)
 - Show how sales change over time — daily, monthly, quarterly, and yearly trends.
   ![Market Trend](Market_Trends-Yearly,Quarterly,Monthly,Daily.png) 
-- Show the relationship between sales and profit. 
+- Show the relationship between sales and profit.
+  ![Relationship Between Sales and Profit](Relationship_Between_Sales&Profit.png)
 - Compare sales, profit, and quantity sold between any two time periods the user picks. 
 - Show the average discount given for each discount category. 
 - Show the total number of orders. 
