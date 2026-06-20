@@ -11,7 +11,8 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
   ![Market Trend](Market_Trends-Yearly,Quarterly,Monthly,Daily.png) 
 - Show the relationship between sales and profit.
   ![Relationship Between Sales and Profit](Relationship_Between_Sales&Profit.png)
-- Compare sales, profit, and quantity sold between any two time periods the user picks. 
+- Compare sales, profit, and quantity sold between any two time periods the user picks.
+  ![Comparison over two periods](Comparison_of_Quantity_Sold,Sales&Profit_Between_Two_Period.png)
 - Show the average discount given for each discount category. 
 - Show the total number of orders. 
 - Show all order details like sales, profit, discount, net sales, and other fields. Users should be able to filter this by product, date,       customer ID, and promotion categories. 
