@@ -6,6 +6,7 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 ## Business Questions Answered
 - Show the top 5 and bottom 5 products based on sales, profit, or quantity sold.
   ![5 Top/Bottom Product](5_Top-Bottom_Products_by_Sales_and_Profit.png)
+  ![5 Top/Bottom Product](5_Top-Bottom_Products_by_Sales_and_Profit.png)
 - Show how sales change over time — daily, monthly, quarterly, and yearly trends. 
 - Show the relationship between sales and profit. 
 - Compare sales, profit, and quantity sold between any two time periods the user picks. 
