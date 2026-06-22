@@ -3,7 +3,8 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 
 ---
 
-## Business Questions Answered
+## ![Uploading VictranGIF.gif…]()
+Business Questions Answered
 - Show the top 5 and bottom 5 products based on sales, profit, or quantity sold.
   ![5 Top/Bottom Product](5_Top-Bottom_Products_by_Sales_and_Profit.png)
   ![5 Top/Bottom Product](5_Top-Bottom_Products_By_Quantity_Sold.png)
@@ -21,3 +22,21 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
   ![Market Overview Per Time](Relationship_Between_Sales,Discount,NetSales,Profit_Filter_by_Date,Product,CustomerID,Promotion_Category.png)
 - Show sales broken down by different cities.
   ![Sales Across the Cities](Sales_Across_Different_Cities.png)
+
+---
+
+## 💹Key KPIs
+- Total Number of Orders.
+- Total Sales
+- Net Sales
+- Profit Margin
+
+---
+
+## ⚒️Tool Used
+- Power Bi
+- Dashboard Design Technique
+- Slicer
+- Chart
+- Map
+- Card
