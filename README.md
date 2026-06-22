@@ -3,8 +3,7 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 
 ---
 
-## ![Uploading VictranGIF.gif…]()
-Business Questions Answered
+## ⁉️Business Questions Answered
 - Show the top 5 and bottom 5 products based on sales, profit, or quantity sold.
   ![5 Top/Bottom Product](5_Top-Bottom_Products_by_Sales_and_Profit.png)
   ![5 Top/Bottom Product](5_Top-Bottom_Products_By_Quantity_Sold.png)
@@ -40,3 +39,10 @@ Business Questions Answered
 - Chart
 - Map
 - Card
+
+---
+
+## 🔍Key Insight
+- Promotional campaigns significantly boosted sales performance.
+- There is more sales on gadgets than person care products.
+- There is alaways peak sales at 4th quarter of the year.
