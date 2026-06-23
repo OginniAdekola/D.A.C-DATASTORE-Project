@@ -47,6 +47,8 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 - [Market Overview 2](Market_Overview_2.png)
 - [Market Overview 3](Market_Overview_3.png)
 - [Market Overview 4](Market_Overview_4.png)
+- [D.A.C DATASTORE PROJECT](D.A.C_DATASTORE_PROJECT.pbix)
+- [ReadMe](README.md)
 
 ---
 
