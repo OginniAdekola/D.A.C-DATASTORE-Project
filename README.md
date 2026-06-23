@@ -42,10 +42,10 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 
 ## 📂Files in This Repository
 - [Top-Bottom_Analysis](Top-Bottom_Analysis.png)
-- [Market_Overview_1](Market_Overview_1.png)
-- [Market_Overview_1](Market_Overview_2.png)
-- [Market_Overview_1](Market_Overview_3.png)
-- [Market_Overview_1](Market_Overview_4.png)
+- [Market Overview 1](Market_Overview_1.png)
+- [Market Overview 2](Market_Overview_2.png)
+- [Market Overview 3](Market_Overview_3.png)
+- [Market Overview 4](Market_Overview_4.png)
 
 ---
 
