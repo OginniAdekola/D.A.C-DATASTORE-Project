@@ -17,6 +17,7 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 
 ## 💹Key KPIs
 - Total Number of Orders.
+- Total Number of Products Sold
 - Total Sales
 - Net Sales
 - Profit Margin
