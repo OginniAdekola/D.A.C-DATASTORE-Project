@@ -1,4 +1,4 @@
-# D.A.C-DATASTORE-Project
+<img width="8942" height="88" alt="image" src="https://github.com/user-attachments/assets/4d6b91ee-e8d8-4f73-b9c9-8202005d1092" /># D.A.C-DATASTORE-Project
 This project analyze sales data for D.A.C DATASTORE, an online retail store. The goal of this analysis is to help the management quickly to understand the sales performance, profitability, effect of promotionals and the market trends across the country.
 
 ---
@@ -41,8 +41,9 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 
 ## 🔍Key Insight
 - Promotional campaigns significantly boosted sales performance.
-- There is more sales on gadgets than person care products.
-- There is alaways peak sales at 4th quarter of the year.
+- There is more profit margin on electronics products compare to any other products.
+- The least demand product is personal care products.
+- There is always peak sales at 4th quarter of the year.
 
 ---
 
@@ -59,7 +60,8 @@ This project analyze sales data for D.A.C DATASTORE, an online retail store. The
 ---
 
 ## ⏳Conclusion
-The analysis shows that promotional campaigns were highly effective in driving sales growth across the cities. Gadgets consistently outperformed personal care products, therefore the business should continue leveraging on promotions, prioritize high-performing gadget categories, and strategically prepare for increased demand during the fourth quarter to maximize sales and profitability.
+The analysis shows that promotional campaigns were highly effective in driving sales growth across the cities. Electronics products consistently outperformed all other products in revenue generated; therefore, the business should continue leveraging on promotions, prioritize high-performing products electronics, clothing and home appliances and strategically prepare for increased demand during the fourth quarter to maximize sales and profitability.
+
 
 
 
